@@ -1,0 +1,14 @@
+{
+  "resourceName": "gqls3",
+  "policyUUID": "217b7b70",
+  "bucketName": "gondola-demo",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
