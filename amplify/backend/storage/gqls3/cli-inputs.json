@@ -4,7 +4,7 @@
   "bucketName": "gondola-demo",
   "storageAccess": "authAndGuest",
   "guestAccess": [
-    "READ"
+    "CREATE_AND_UPDATE"
   ],
   "authAccess": [
     "CREATE_AND_UPDATE"
